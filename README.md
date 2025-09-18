@@ -63,11 +63,4 @@ I'm a **UGC-NET JRF Environmental Science** qualified researcher and forestry pr
 ---
 *"Conservation is a state of harmony between men and land." - Aldo Leopold*
 
----
-### 🔍 Looking for opportunities in:
-- Environmental Research Projects
-- Forest Conservation Initiatives
-- Data Analysis in Ecological Studies
-- Collaborative Research in Forestry
-
 Feel free to explore my repositories and don't hesitate to reach out for collaborations! 🤝
